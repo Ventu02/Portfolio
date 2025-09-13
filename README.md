@@ -2,7 +2,7 @@
 
 ## 1. Software Engineering (Ingegneria del Software)
 - **Course description:** ...
-- **Coding languages used:** HTML, CSS, JS, PHP, MongoDB
+- **Coding languages used:** HTML, CSS, JS, PHP, MongoDB, Git
 - **Project type:** Group
 
 
